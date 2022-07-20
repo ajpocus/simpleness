@@ -11,8 +11,4 @@
       font-weight: bold;
       font-style: normal;
     }
-    @font-face {
-      font-family: 'Motto';
-      src: local("Motto"), local("Scriptin"), url("../fonts/Scriptin.ttf") format("TrueType");
-    }
 }
